@@ -3,6 +3,7 @@
 
 ###
 <h1 align="center">Hello World 👋, I'm Cuong Nguyen</h1>
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
