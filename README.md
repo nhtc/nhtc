@@ -17,12 +17,15 @@
 <img align="right" alt="Coding" width="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWkyZmdkOXRxc3BnMjBqdXY3b3Q3d2g4OGYyZnh2bmQ2c2l6ZW5sZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif"/>
 
 ###
-
-<p align="left">A passionate Frontend developer and a bugs creator from Earth<br><br>- 🔭 I’m on HDWebsoft<br>- 📚 I'm currently learning React Native and VueJS<br>- ⚡ In my free time I go   badminton
-</p>
+<div align="center">
+<p>😵‍💫 A passionate Frontend developer and a bugs creator from Earth 😵‍💫</p> 
+<p>🔭 I’m working on HDWebsoft Co.</p>
+<p>✍️(◔◡◔) I'm currently learning React Native and VueJS</p>
+<p>(👉ﾟヮﾟ)👉 Fun fact: I almost became a math teacher instead of a developer</p>
+</div>
 
 ###
-<h3 align="left">📨  Contact Me</h3>
+<h3 align="left">📫  Contact Me</h3>
 <div align="center">
   <a href="https://www.facebook.com/nhtcit99/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=NHTC&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
@@ -103,6 +106,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhtc&show_icons=true&locale=en&theme=tokyonight" alt="nhtc" /></p>
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhtc&&theme=tokyonight" alt="nhtc" /></p>  
+<img src="https://raw.githubusercontent.com/nhtc/nhtc/output/snake.svg" alt="Snake animation" />
+
+###
 
 <br clear="both">
 
