@@ -1,8 +1,6 @@
-<br clear="both">
 
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+<!-- ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d) -->
 
-###
 
 <br clear="both">
 
@@ -25,6 +23,14 @@
 </div>
 
 ###
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=When%20I%20wrote%20this%20code,%20only%20God%20and%20I%20understood%20what%20I%20did.%20Now%20only%20God%20knows.&theme=catppuccin_mocha&author=Anonymous" alt="Programming Quotes" />
+  </a>
+</p>
+
+###
+###
 <h3 align="left">📫  Contact Me</h3>
 <div align="center">
   <a href="https://www.facebook.com/nhtcit99/" target="_blank">
@@ -43,6 +49,7 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
+
 
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -115,3 +122,4 @@
 </div>
 
 ###
+
