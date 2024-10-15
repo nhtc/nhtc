@@ -13,7 +13,7 @@
 <div align="center">
 <p>😵‍💫 A passionate Frontend developer and a bugs creator from Earth 😵‍💫</p> 
 <p>🔭 I’m working on KMS Technology.</p>
-<p>✍️(◔◡◔) I'm currently learning React Native and VueJS</p>
+<p>✍️(◔◡◔) I'm currently learning React Native and NestJs</p>
 <p>(👉ﾟヮﾟ)👉 Fun fact: I almost became a math teacher instead of a developer</p>
 </div>
 
